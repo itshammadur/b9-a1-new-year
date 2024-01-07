@@ -1,0 +1,30 @@
+header > nav{
+  background: rgba(0,0,0,0.4)
+  url( B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+ width: 1320px;
+ height: 600px;
+ flex-shrink: 0;
+ background-size: cover;
+ background-blend-mode: darken;
+ margin: 0px 150px;
+
+}
+
+.headline{
+  text-align: center;
+  color: #ffffff ;
+  font-size: 100px;
+  padding-top: 90px;
+  
+}
+
+
+.Year{
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: normal;
+
+}
