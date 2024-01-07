@@ -6,7 +6,7 @@ header > nav{
  flex-shrink: 0;
  background-size: cover;
  background-blend-mode: darken;
- margin: 0px 150px;
+ margin: 0px 150px 0px;
 
 }
 
