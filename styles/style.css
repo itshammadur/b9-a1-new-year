@@ -1,13 +1,14 @@
 header > nav{
   background: rgba(0,0,0,0.4)
   url( resources/Banner\ Image.png );
- width: 1320px;
- height: 600px;
- flex-shrink: 0;
- background-size: cover;
- background-blend-mode: darken;
- margin: 0px 150px 0px;
-
+  width: 1320px;
+  height: 600px;
+  flex-shrink: 0;
+  background-size: cover;
+  background-blend-mode: darken;
+  margin-top: 50px;
+  margin-left: 140px;
+  margin-right: 140px; 
 }
 
 .headline{
