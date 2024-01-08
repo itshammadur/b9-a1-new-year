@@ -1,14 +1,15 @@
-header > nav{
+header {
   background: rgba(0,0,0,0.4)
   url( resources/Banner\ Image.png );
-  width: 1329px;
+  width: 1320px;
   height: 600px;
+  /* background-size: auto; */
   background-blend-mode: darken;
   /* margin-top: 50px; */
   /* margin-left: 140px; */
   /* margin-right: 140px;  */
-  background-position: auto;
-  
+  /* background-position: center; */
+  margin: auto;
  
   
   
@@ -32,3 +33,42 @@ header > nav{
   line-height: normal;
 
 }
+
+
+main > nav {
+   
+  text-align: center;
+  /* margin-top: ; */
+  
+}
+
+
+.all{
+  color: #f00;
+  font-size: 70px;
+  font-weight: 700;
+  
+}
+
+
+.deals{
+  font-size: 24px;
+}
+
+
+.categories {
+   color: black;
+  font-size: 55px;
+  
+}
+
+
+.photo{
+  width: 803px;
+  height: 500px;
+}
+
+
+
+
+
