@@ -214,7 +214,6 @@ header {
 }
 
 
-
 .seventh{
   background-color: rgba(255, 0, 0, 0.08);
   width: 1320px;
@@ -224,6 +223,7 @@ header {
   margin: auto;
   margin-top: 100px;
 }
+
 
 .subscribe{
   padding-top: 80px;
@@ -240,6 +240,7 @@ header {
   
 }
 
+
 .paragraph{
   color: rgba(7, 2, 17, 0.60);
   font-size: 20px;
@@ -249,6 +250,7 @@ header {
 
 
 }
+
 
 .third-btn{
   background-color:#f00;
@@ -260,8 +262,8 @@ header {
 
 }
 
+
 input {
-  
   line-height: 48px;
   width: 438px;
   height: 70px;
@@ -287,7 +289,8 @@ footer {
   font-family: 'Inter';
  
 }
- 
+
+
 .try{
   display: flex;
   justify-content: space-between;
@@ -304,9 +307,11 @@ footer {
   padding-top: 100px;
 }
 
+
 .social-icon{
   padding-top: 298px;
 }
+
 
 .contact{
   color: #fff;
@@ -320,10 +325,12 @@ footer {
 
 }
 
+
 .last{
   display: flex;
   justify-content: space-between;
 }
+
 
 .rights {
   color: #fff;
@@ -337,6 +344,7 @@ footer {
   line-height: normal;
 }
 
+
 .unsubscribe{
   padding-right: 300px;
   padding-top: 100px;
@@ -346,6 +354,7 @@ footer {
   font-weight: 500;
   line-height: normal;
 }
+
 
 .un {
   background-color: #070211;
