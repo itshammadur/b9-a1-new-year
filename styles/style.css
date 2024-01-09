@@ -98,6 +98,10 @@ header {
 
  .btn{
   margin-left: 40px;
+  background-color: #f00;
+  color: #fff;
+  border-radius: 8px;
+  
   
 }
 
