@@ -67,19 +67,46 @@ header {
   height: 500px;
 }
 
-.new {
-  background: url(resources/Vectorrr.png);
+.second {
+  background: rgba(0,0,0,0.4) url(resources/Vectorrr.png);
   background-repeat: no-repeat;
-  margin: 60px 400px
-
-
-}
- .banner {
-
-  /* background-repeat: no-repeat; */
+  background-blend-mode: darken;
+  width: 1320px;
+  height: 600px;
   margin: auto;
-  display: flex
+  margin-top: 60px;
+ 
+  
+}
+
+ .banner {
+    display: flex
  }
+
+.container{
+ padding-top: 60px;
+ padding-left: 126px;
+ color: #fff;
+}
+
+
+ .welcome {
+  letter-spacing: 7px;
+  font-size: 64px ;
+  
+ }
+
+ .btn{
+  margin-left: 40px;
+  
+}
+
+ .external{
+  padding-top: 68px;
+  padding-right: 138px;
+
+ }
+
 
 
 
