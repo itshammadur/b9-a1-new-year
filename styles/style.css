@@ -9,9 +9,9 @@ header {
   /* margin-left: 140px; */
   /* margin-right: 140px;  */
   margin: auto;
- 
-  
-  
+   
+
+
 }
 
 .headline{
@@ -19,7 +19,6 @@ header {
   color: #ffffff ;
   font-size: 100px;
   padding-top: 90px;
-  
 }
 
 
@@ -30,6 +29,8 @@ header {
   font-weight: 500;
   font-style: normal;
   line-height: normal;
+  /* font-family: 'Inter', sans-serif;
+  font-family: 'Merriweather', serif; */
 
 }
 
@@ -37,6 +38,7 @@ header {
 #first {
    
   text-align: center;
+  font-family: 'Inter', sans-serif;
 
   
 }
@@ -114,3 +116,52 @@ header {
 
 
 
+.third{
+  background-color: rgba(255, 0, 0, 0.10);
+  width: 1320px;
+  height: 482px;
+  background-position: center;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.pink{
+  background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255,0,0,0.00) 100% );
+
+
+}
+
+.address{
+  font-size: 32px;
+  text-align: center;
+  padding-top: 100px;
+
+}
+
+.park{
+  color: #f00;
+  font-style: normal;
+  /* font-family: 'Inter', sans-serif;
+  font-family: 'Merriweather', serif;
+  text-transform: capitalize; */
+  text-transform: capitalize;
+}
+
+.new-color{
+  color: #05010b;
+  font-weight: 600;
+  line-height: 56px;
+  
+}
+
+
+.second-btn{
+  font-size: 20px;
+  background: #f00;
+  border-radius: 10px;
+  display: inline-flex;
+  border: 0px;
+  color: #fff;
+  padding: 16px 32px;
+  font-weight: 700;
+}
