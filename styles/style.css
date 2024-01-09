@@ -30,9 +30,7 @@ header {
   font-weight: 500;
   font-style: normal;
   line-height: normal;
-  /* font-family: 'Inter', sans-serif;
-  font-family: 'Merriweather', serif; */
-
+  
 }
 
 
@@ -119,7 +117,6 @@ header {
   background-color: rgba(255, 0, 0, 0.10);
   width: 1320px;
   height: 482px;
-  /* background-position: center; */
   margin: auto;
   margin-top: 100px;
 }
@@ -140,9 +137,7 @@ header {
 .park{
   color: #f00;
   font-style: normal;
-  /* font-family: 'Inter', sans-serif;
-  font-family: 'Merriweather', serif;
-  text-transform: capitalize; */
+  
   text-transform: capitalize;
   font-weight: 600;
 }
@@ -170,7 +165,7 @@ header {
   background: #fff;
   width: 1320px;
   height: 1250px;
-  /* text-align: center; */
+  
   margin: auto;
   margin-top: 100px;
 
@@ -224,7 +219,7 @@ header {
   background-color: rgba(255, 0, 0, 0.08);
   width: 1320px;
   height: 616px;
-  /* align-items: center; */
+ 
   text-align: center;
   margin: auto;
   margin-top: 100px;
@@ -266,7 +261,7 @@ header {
 }
 
 input {
-  /* padding-right: 0px; */
+  
   line-height: 48px;
   width: 438px;
   height: 70px;
@@ -289,6 +284,7 @@ footer {
   height: 609px;
   margin: auto;
   margin-top: 100px;
+  font-family: 'Inter';
  
 }
  
