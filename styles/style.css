@@ -68,14 +68,17 @@ header {
 }
 
 .new {
+  background: url(resources/Vectorrr.png);
   background-repeat: no-repeat;
-  margin: auto;
-}
- div {
-  
-  background-repeat: no-repeat;
-  margin: auto;
+  margin: 50px 400px
+ s
 
+}
+ .banner {
+
+  /* background-repeat: no-repeat; */
+  margin: auto;
+  display: flex
  }
 
 
