@@ -220,7 +220,7 @@ header {
 
 
 
-.fifth{
+.seventh{
   background-color: rgba(255, 0, 0, 0.08);
   width: 1320px;
   height: 616px;
@@ -282,3 +282,68 @@ input {
   flex-shrink: 0;
 }
 
+/* .footer-column{
+  display: flex;
+  padding-left: 1000px;
+} */
+
+/* footer {
+  background-color:#070211;
+  width: 100%;
+  height: 609px;
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+
+} */
+
+/* .last-para{
+  color: #fff;
+  font-size: 24px;
+  font-family: 'Inter';
+  font-weight: 500;
+  line-height: 40px;
+  padding-left: 140px;
+  padding-top: 120px;
+} */
+
+/* .last-area{
+  color: #fff;
+  font-size: 24px;
+  font-family: 'Inter';
+  font-weight: 500;
+  padding-top: 260px;
+  padding-left: 140px;
+} */
+
+
+/* link{
+  padding-left: 1335px;
+} */
+
+/* .social-link{
+  text-align: center;
+
+} */
+
+/* a {
+  margin-top: 298px;
+} */
+
+/* .call-website{
+  font-size: 24px;
+  padding-right: 1074px;
+} */
+
+
+/* .unsubscribe{
+  padding-top: 460px;
+  padding-left: 1335px;
+} */
+
+
+footer {
+  background-color: #070211;
+  width: 100%;
+  height: 600px
+}
