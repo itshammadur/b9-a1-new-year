@@ -9,6 +9,7 @@ header {
   /* margin-left: 140px; */
   /* margin-right: 140px;  */
   margin: auto;
+
    
 
 
@@ -39,7 +40,7 @@ header {
    
   text-align: center;
   font-family: 'Inter', sans-serif;
-
+  margin-top: 100px;
   
 }
 
@@ -76,7 +77,7 @@ header {
   width: 1320px;
   height: 600px;
   margin: auto;
-  margin-top: 60px;
+  margin-top: 100px;
  
   
 }
@@ -114,15 +115,13 @@ header {
  }
 
 
-
-
 .third{
   background-color: rgba(255, 0, 0, 0.10);
   width: 1320px;
   height: 482px;
   /* background-position: center; */
   margin: auto;
-  margin-top: 60px;
+  margin-top: 100px;
 }
 
 .pink{
@@ -145,11 +144,12 @@ header {
   font-family: 'Merriweather', serif;
   text-transform: capitalize; */
   text-transform: capitalize;
+  font-weight: 600;
 }
 
 .new-color{
-  color: #05010b;
-  font-weight: 600;
+  color: #070211;
+  
   line-height: 56px;
   
 }
@@ -164,5 +164,57 @@ header {
   color: #fff;
   padding: 16px 32px;
   font-weight: 700;
+}
+
+.fourth{
+  background: #fff;
+  width: 1320px;
+  height: 1250px;
+  /* text-align: center; */
+  margin: auto;
+  margin-top: 100px;
+
+
+}
+
+.picture{
+  align-items: center;
+
+}
+
+.best{
+  color: #f00;
+  font-size: 24px;
+  font-family: 'Inter';
+  font-weight: 400;
+
+}
+
+.portfolio{
+  color: #070211;
+  font-family: 'Inter';
+  font-size: 48px;
+  line-height: 10px
+}
+
+.new-para{
+ color: rgba(7, 2, 17, 0.60);
+ font-family: 'Inter';
+ font-weight: 400;
+ line-height:normal;
+
+}
+
+
+.group-one{
+  padding-top: 48px;
+  padding-right: 12px;
+  padding-bottom: 15px;
+ 
+}
+
+.group-two{
+  padding-right: 12px;
+  padding-bottom: 0px;
 }
 
