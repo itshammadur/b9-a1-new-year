@@ -120,7 +120,7 @@ header {
   background-color: rgba(255, 0, 0, 0.10);
   width: 1320px;
   height: 482px;
-  background-position: center;
+  /* background-position: center; */
   margin: auto;
   margin-top: 60px;
 }
